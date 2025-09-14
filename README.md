@@ -24,7 +24,7 @@ A simple finance dashboard built with Python, Streamlit, and Plotly to categoriz
 2. Create and activate a virtual environment:
 python3 -m venv .venv
 source .venv/bin/activate   # macOS/Linux
-# .venv\Scripts\activate    # Windows
+.venv\Scripts\activate    # Windows
 
 3. Install dependencies:
 pip install -r requirements.txt
